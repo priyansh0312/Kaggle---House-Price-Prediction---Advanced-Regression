@@ -1,1 +1,1 @@
-# Kaggle---House-Price-Prediction---Advanced-Regression
+# Kaggle Competition - House Price Prediction - Advanced Regression
